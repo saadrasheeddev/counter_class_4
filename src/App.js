@@ -13,7 +13,7 @@ function App() {
         <Zikr count = {count}></Zikr>
         <br></br>
         <button onClick={() => setCount(count + 1)}>
-          Update Counter 
+          Update Zikr Counter 
         </button>
         <button onClick={() => setPic(!isFarewell)}>
           Change Picture
